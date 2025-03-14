@@ -4,6 +4,6 @@
 
 코딩 독학중 💻
 
-html, css, js, ts, react, python, sql, java ...
+html, css, js, ts, react, python, sql ...
 
 
