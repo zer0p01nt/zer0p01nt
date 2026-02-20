@@ -18,8 +18,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zer0p01nt&show_icons=true&include_all_commits=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=zer0p01nt&show_icons=true&include_all_commits=true&theme=graywhite)
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zer0p01nt&layout=compact&langs_count=5)](https://github-stats-extended.vercel.app/api/top-langs?username=zer0p01nt&layout=compact&langs_count=5)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zer0p01nt&layout=compact&langs_count=5&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=zer0p01nt&layout=compact&langs_count=5&theme=graywhite)
 </div>
 
 
