@@ -8,7 +8,7 @@
 ### About Me
 - 덕성여자대학교 일어일문학, 경영학 전공
 - 덕성여자대학교 멋쟁이사자처럼 13기 프론트엔드 아기사자 수료 (2025)
-
+- <a href="https://zer0point.tistory.com/">개발 공부 블로그</a>
 
 ### Technology
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">  
