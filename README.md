@@ -34,6 +34,4 @@
 ### Contact
 <a href="mailto:1027.bmy@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zer0p01nt&show_icons=true&include_all_commits=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=zer0p01nt&show_icons=true&include_all_commits=true&theme=graywhite)
-
 
